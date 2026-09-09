@@ -1,0 +1,6 @@
+{
+  "name": "نجاز كارد",
+  "description": "تطبيق نجاز كارد لشحن الأرصدة والبطاقات الرقمية وخدمات الدفع والتحويل",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
